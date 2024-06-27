@@ -5,7 +5,7 @@
 
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
-<i>Loved the project? Please consider [donating](https://paypal.me/rifk7com) to help it improve!</i>
+<i>Loved the project? Please consider [donating](https://paypal.me/bezikk) to help it improve!</i>
 
 </div>
 
